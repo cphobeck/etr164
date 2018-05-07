@@ -25,4 +25,5 @@ My backup idea was to use a VOIP application instead. Even though I was attempti
 When using the older version of linphone, I attempted to connect to another computer, but I receive an error that the program cannot work because it cannot use the port it's configured for, regardless of the protocol. Looking up the error online shows that I should be a member of the "plugdev" permissions group, but my user account already was.
 
 ![Port Error](https://raw.githubusercontent.com/cphobeck/etr164/PortError.png )
+
 ![Groups](https://raw.githubusercontent.com/cphobeck/etr164/Groups.png )
