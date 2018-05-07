@@ -1,4 +1,4 @@
-# Final Project
+# Final Project Proposal
 
 My final project will be to simultaneously stream audio between two computers. The goal of this would be to enable real-time audio communication, useful either in radio "on location" broadcasts, or just as "walkie-talkies".
 
